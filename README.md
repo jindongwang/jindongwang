@@ -15,8 +15,8 @@
 
 ###
 
-- 😄 Hi there, this is Jindong Wang. I am a researcher at Microsoft Research Asia (MSRA).
-- 🔭 My research interest includes transfer learning, machine learning, and ubiquitous computing.
+- 😄 Hi there, this is Jindong Wang. I am a Senior Researcher at Microsoft Research Asia (MSRA).
+- 🔭 My research interest includes robust machine learning, transfer learning, out-of-distribution generalization, machine learning, and other applications.
 - 👯 I am open to collaboration, feel free to contact me via Email (👈)!
 - ⚡ Please check my [homepage](https://jd92.wang) for my CV and latest update!
 
